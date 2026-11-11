@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+### Changed
+- **Breaking:** the minimum supported PHP version is now 8.0 (was 7.4)
+- Upgrade PHP-DI from 6.x to 7.x to remove the deprecation warnings raised on PHP 8.4
+
 ## [v2.8.0] - 2026-03-25
 ### Changed
 - Implement WP CLI commands for generating alt text

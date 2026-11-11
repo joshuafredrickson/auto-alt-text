@@ -17,7 +17,7 @@ This plugin allows you to generate alt texts in the following ways:
 
 Please ensure you have the following tools installed:
 
-- PHP version: >= 7.4
+- PHP version: >= 8.0
 - composer
 - node version: 18
 - npm

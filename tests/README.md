@@ -4,7 +4,7 @@ PHPUnit-based test suite for the Auto Alt Text WordPress plugin.
 
 ## Requirements
 
-- PHP >= 7.4
+- PHP >= 8.0
 - Composer
 - WordPress (for integration tests)
 - PHPUnit 9.6+ (installed via Composer)
